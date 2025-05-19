@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 73873681e215848299dc45407ef5e60d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308602
+  packageName: AutoVoxel - Generate 3D Voxel Meshes from Sprites
+  packageVersion: 1.0
+  assetPath: Assets/AutoVoxel/Demo/DemoScene.unity
+  uploadId: 731737

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bb28170772d07419f90cf152e5591220
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308602
+  packageName: AutoVoxel - Generate 3D Voxel Meshes from Sprites
+  packageVersion: 1.0
+  assetPath: Assets/AutoVoxel/AutoVoxel Documentation.pdf
+  uploadId: 731737

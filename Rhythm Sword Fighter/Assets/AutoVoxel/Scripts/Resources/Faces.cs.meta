@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: fcd3eeae8063d4503a739c533f5ff8b7
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308602
+  packageName: AutoVoxel - Generate 3D Voxel Meshes from Sprites
+  packageVersion: 1.0
+  assetPath: Assets/AutoVoxel/Scripts/Resources/Faces.cs
+  uploadId: 731737

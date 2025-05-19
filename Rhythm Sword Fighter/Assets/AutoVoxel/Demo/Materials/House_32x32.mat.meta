@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 99f6edbafd88c40959c85006681c30d2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308602
+  packageName: AutoVoxel - Generate 3D Voxel Meshes from Sprites
+  packageVersion: 1.0
+  assetPath: Assets/AutoVoxel/Demo/Materials/House_32x32.mat
+  uploadId: 731737

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 02bb5579db2764a55b8cab36d443e14e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308602
+  packageName: AutoVoxel - Generate 3D Voxel Meshes from Sprites
+  packageVersion: 1.0
+  assetPath: Assets/AutoVoxel/Demo/Materials/House_8x8.mat
+  uploadId: 731737
